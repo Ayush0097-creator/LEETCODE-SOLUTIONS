@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
