@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
