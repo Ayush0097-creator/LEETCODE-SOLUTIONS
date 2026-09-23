@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
