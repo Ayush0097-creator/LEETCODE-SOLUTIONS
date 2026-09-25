@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Bit Manipulation
