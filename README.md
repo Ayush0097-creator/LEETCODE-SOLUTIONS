@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -103,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
