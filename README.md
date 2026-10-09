@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Ayush0097-creator/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
